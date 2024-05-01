@@ -16,4 +16,17 @@ Using the Preparation toolset, null data, filtering on specific criteria, applyi
 * Summarize Tool
 * Output Data Tool
 
+The dataset contains a New York real estate company (NYC). The following columns were contained in the dataset: record ID, location, sale dates, property information, sale price, and much more.
+
+The following questions were answered in the data preparation:
+1. Report on the most recent sales on NYC properties.
+2. To show only records with zip codes and a listed year, the property was built
+3. Researching properties with a sale price of $100,000 or greater
+4. The smallest square footage for this property subset
+5. Formatting the record ID field by adding leading zeros to match the existing field within the database.
+6. Find the highest sale price per gross square foot of this updated property dataset.
+7. Flag the dataset for any apartment properties and find out how many of those properties have a sale price above $1 million.
+8. Top 10 highest-selling properties, grouped by type
+9. Median sale price per neighborhood
+
 ![alt tex](https://github.com/DataNaija/Advanced_Data_Modeling_With_Alteryx/blob/main/NYC.PNG)
